@@ -1,0 +1,6 @@
+﻿  Supermarket Project.cpp
+Stock.obj : error LNK2005: "class std::basic_fstream<char,struct std::char_traits<char> > file" (?file@@3V?$basic_fstream@DU?$char_traits@D@std@@@std@@A) already defined in Staff.obj
+Stock.obj : error LNK2005: "class Inventory I" (?I@@3VInventory@@A) already defined in Staff.obj
+supply.obj : error LNK2005: "class std::basic_fstream<char,struct std::char_traits<char> > file" (?file@@3V?$basic_fstream@DU?$char_traits@D@std@@@std@@A) already defined in Staff.obj
+supply.obj : error LNK2005: "class Inventory I" (?I@@3VInventory@@A) already defined in Staff.obj
+D:\SEMESTER 3\OOP\Project\Supermarket Project\x64\Debug\Supermarket Project.exe : fatal error LNK1169: one or more multiply defined symbols found
